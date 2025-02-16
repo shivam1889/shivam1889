@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies.
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on NEW PROJECTS
-- 📫 How to reach me shovam188930@gmail.com
+- 📫 How to reach me shivam188930@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
